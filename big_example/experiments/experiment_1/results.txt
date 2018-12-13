@@ -1,0 +1,27 @@
+Experiment 1: Original with learning
+====================================
+
+Oracle: ./test.sh
+Input: getLPF.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 112 statements
+Reduced Size: 62 statements
+Global Success Ratio: 244/790
+Local Success Ratio: 23/209
+Learning Time: 8.811 s
+Oracle Time: 363.338 s
+Total Time: 383.977 s

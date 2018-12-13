@@ -1,0 +1,23 @@
+Oracle: ./test.sh
+Input: getLPF.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 112 statements
+Reduced Size: 62 statements
+Global Success Ratio: 210/6490
+Local Success Ratio: 30/352
+Oracle Time: 1603.46 s
+Total Time: 1649.24 s

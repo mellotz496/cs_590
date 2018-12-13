@@ -1,0 +1,24 @@
+Experiment 9: DD from paper, learning on subset only
+====================================================
+
+Oracle: ./test.sh
+Input: getLPF.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 112 statements
+Reduced Size: 62 statements
+Global Success Ratio: 212/5182
+Local Success Ratio: 26/233
+Learning Time: 5.363 s
+Oracle Time: 1010.61 s
+Total Time: 1042.26 s

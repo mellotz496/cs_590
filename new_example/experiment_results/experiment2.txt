@@ -1,0 +1,24 @@
+In this run, the tests are run only until one fails.
+====================================================
+
+Oracle: ./test1.sh
+Input: new_basic.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 14 statements
+Reduced Size: 6 statements
+Global Success Ratio: 5/5
+Local Success Ratio: 3/25
+Learning Time: 0.001 s
+Oracle Time: 9.16 s
+Total Time: 9.4 s

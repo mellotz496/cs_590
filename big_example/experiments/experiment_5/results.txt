@@ -1,0 +1,26 @@
+Experiment 5: DD as described in paper but with complement first, no learning
+=============================================================================
+
+Oracle: ./test.sh
+Input: getLPF.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 112 statements
+Reduced Size: 62 statements
+Global Success Ratio: 210/6280
+Local Success Ratio: 26/343
+Oracle Time: 1605.35 s
+Total Time: 1650.77 s

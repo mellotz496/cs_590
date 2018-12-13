@@ -1,0 +1,27 @@
+Experiment 3: DD from paper, with learning
+==========================================
+
+Oracle: ./test.sh
+Input: getLPF.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 112 statements
+Reduced Size: 62 statements
+Global Success Ratio: 210/2940
+Local Success Ratio: 30/351
+Learning Time: 71.059 s
+Oracle Time: 1057.92 s
+Total Time: 1175.75 s

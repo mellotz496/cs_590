@@ -1,0 +1,24 @@
+BASIC TEST of the NEW EXAMPLE WITH MULTIPLE TEST CASES--all tests are run each time and the entire set of results is checked
+=====================================================
+
+Oracle: ./new_test.sh
+Input: new_basic.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 14 statements
+Reduced Size: 6 statements
+Global Success Ratio: 5/5
+Local Success Ratio: 3/25
+Learning Time: 0 s
+Oracle Time: 12.341 s
+Total Time: 12.502 s

@@ -1,0 +1,27 @@
+Experiment 6: DD from paper, complement first, with learning
+============================================================
+
+Oracle: ./test.sh
+Input: getLPF.c
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+Removing unreachable code
+Reducing global elements
+Reducing local elements
+========================================
+                 Report                 
+========================================
+Original Size: 112 statements
+Reduced Size: 62 statements
+Global Success Ratio: 210/2730
+Local Success Ratio: 26/339
+Learning Time: 67.389 s
+Oracle Time: 994.828 s
+Total Time: 1107.57 s
